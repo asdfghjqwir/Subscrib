@@ -2,7 +2,7 @@
 
 使ってないサブスクをNISAに回してたら？ 放置サブスクの損失額を診断するWebアプリです。
 
-🔗 **デモ**: https://subscrib-one.vercel.app/
+ https://subscrib-one.vercel.app/
 
 ※エンタメ目的の簡易シミュレーションで、投資助言ではありません。
 
